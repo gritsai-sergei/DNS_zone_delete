@@ -1,0 +1,529 @@
+zone "sc.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.sc.bn.by";
+};
+zone "scorpio.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.scorpio.bn.by";
+};
+zone "vpn.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.vpn.bn.by";
+};
+zone "belgalantereja.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.belgalantereja.bn.by";
+};
+zone "alvi.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.alvi.bn.by";
+};
+zone "iit.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.iit.sml.by";
+};
+zone "bisc.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.bisc.by";
+};
+zone "crk-brsm.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.crk-brsm.sml.by";
+};
+zone "rap.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.rap.bn.by";
+};
+zone "rusavto.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.rusavto.bn.by";
+};
+zone "maersk.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.maersk.bn.by";
+};
+zone "domrebenka.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.domrebenka.bn.by";
+};
+zone "artline.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.artline.bn.by";
+};
+zone "indemb.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.indemb.bn.by";
+};
+zone "cth.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.cth.bn.by";
+};
+zone "dirol.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.dirol.bn.by";
+};
+zone "magnomed.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.magnomed.bn.by";
+};
+zone "lark.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.lark.bn.by";
+};
+zone "ars.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.ars.sml.by";
+};
+zone "mopvti.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.mopvti.sml.by";
+};
+zone "greendog.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.greendog.bn.by";
+};
+zone "erion.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.erion.sml.by";
+};
+zone "tec.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.tec.bn.by";
+};
+zone "diochel.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.diochel.bn.by";
+};
+zone "balagol.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.balagol.sml.by";
+};
+zone "grad.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.grad.sml.by";
+};
+zone "womans.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.womans.sml.by";
+};
+zone "addinol.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.addinol.bn.by";
+};
+zone "technocentre.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.technocentre.bn.by";
+};
+zone "eset.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.eset.bn.by";
+};
+zone "sputnik.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.sputnik.bn.by";
+};
+zone "katrabel.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.katrabel.bn.by";
+};
+zone "lbcminsk.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.lbcminsk.sml.by";
+};
+zone "snh.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.snh.bn.by";
+};
+zone "smog.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.smog.bn.by";
+};
+zone "chocolate.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.chocolate.bn.by";
+};
+zone "auct.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.auct.bn.by";
+};
+zone "libretik.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.libretik.bn.by";
+};
+zone "globaltrade.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.globaltrade.bn.by";
+};
+zone "horizont.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.horizont.bn.by";
+};
+zone "kipriana.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.kipriana.bn.by";
+};
+zone "oil.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.oil.bn.by";
+};
+zone "bnet.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.bnet.by";
+};
+zone "egis.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.egis.bn.by";
+};
+zone "aquatechnika.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.aquatechnika.sml.by";
+};
+zone "belprom.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.belprom.by";
+};
+zone "gsmtest.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.gsmtest.bn.by";
+};
+zone "belnetmon.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.belnetmon.bn.by";
+};
+zone "netmon.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.netmon.bn.by";
+};
+zone "best.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.best.bn.by";
+};
+zone "trest.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.trest.bn.by";
+};
+zone "svyatovit.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.svyatovit.bn.by";
+};
+zone "bn.by" in {
+     type master;
+     check-names ignore;
+     file "/etc/bind/zones/master/db.bn.by";
+};
+zone "sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.sml.by";
+};
+zone "bte.com.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.bte.com.by";
+};
+zone "belprompribor.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.belprompribor.by";
+};
+zone "ds.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.ds.by";
+};
+zone "egypt.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.egypt.bn.by";
+};
+zone "lpby.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.lpby.bn.by";
+};
+zone "bbs.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.bbs.sml.by";
+};
+zone "lantoria.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.lantoria.bn.by";
+};
+zone "rmcollege.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.rmcollege.sml.by";
+};
+zone "nk.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.nk.bn.by";
+};
+zone "reddy.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.reddy.bn.by";
+};
+zone "transrail-bch.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.transrail-bch.by";
+};
+zone "vozniukdesign.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.vozniukdesign.bn.by";
+};
+zone "surge.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.surge.bn.by";
+};
+zone "grosad.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.grosad.bn.by";
+};
+zone "gymnasiums.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.gymnasiums.bn.by";
+};
+zone "dzimka.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.dzimka.bn.by";
+};
+zone "anvamir.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.anvamir.sml.by";
+};
+zone "mtztest.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.mtztest.bn.by";
+};
+zone "glp.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.glp.sml.by";
+};
+zone "schwarzkopf.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.schwarzkopf.bn.by";
+};
+zone "nikta.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.nikta.bn.by";
+};
+zone "delta.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.delta.bn.by";
+};
+zone "sota.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.sota.bn.by";
+};
+zone "borisovracing.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.borisovracing.bn.by";
+};
+zone "tvk.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.tvk.bn.by";
+};
+zone "bveb.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.bveb.bn.by";
+};
+zone "belloto.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.belloto.bn.by";
+};
+zone "arsenal.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.arsenal.sml.by";
+};
+zone "prime-tass.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.prime-tass.sml.by";
+};
+zone "vasik.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.vasik.bn.by";
+};
+zone "kingston.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.kingston.by";
+};
+zone "transcend.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.transcend.by";
+};
+zone "chessclub.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.chessclub.bn.by";
+};
+zone "flynet.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.flynet.sml.by";
+};
+zone "sss.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.sss.sml.by";
+};
+zone "utd.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.utd.sml.by";
+};
+zone "e-seminar.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.e-seminar.by";
+};
+zone "armadalabs.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.armadalabs.sml.by";
+};
+zone "copfilter.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.copfilter.sml.by";
+};
+zone "strube.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.strube.by";
+};
+zone "alcohub.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.alcohub.sml.by";
+};
+zone "idom.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.idom.by";
+};
+zone "tabletka.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.tabletka.by";
+};
+zone "tab.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.tab.by";
+};
+zone "e-bgpb.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.e-bgpb.by";
+};
+zone "intellix.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.intellix.by";
+};
+zone "elko.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.elko.by";
+};
+zone "avihold.com" in {
+     type master;
+     file "/etc/bind/zones/master/db.avihold.com";
+};
+zone "acdlabs.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.acdlabs.sml.by";
+};
+zone "apt.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.apt.by";
+};
+zone "rainbow.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.rainbow.bn.by";
+};
+zone "elilink.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.elilink.by";
+};
+zone "myweb08.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.myweb08.bn.by";
+};
+zone "list08.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.list08.bn.by";
+};
+zone "tvlogistic.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.tvlogistic.by";
+};
+zone "megaloto.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.megaloto.by";
+};
+zone "rq.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.rq.by";
+};
+zone "telko.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.telko.by";
+};
+zone "alvitorg2.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.alvitorg2.sml.by";
+};
+zone "repvizor.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.repvizor.by";
+};
+zone "xn--80asggncge8h.xn--90ais" in {
+     type master;
+     file "/etc/bind/zones/master/db.xn--80asggncge8h.xn--90ais";
+};
+zone "sfg.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.sfg.by";
+};
+zone "silvanofashion.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.silvanofashion.by";
+};
+zone "1sec.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.1sec.by";
+};
+zone "bitrix.bn.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.bitrix.bn.by";
+};
+zone "vitex.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.vitex.by";
+};
+zone "altermed.sml.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.altermed.sml.by";
+};
+zone "xn----7sbfhfd2bya4al4i5a.xn--90ais" in {
+     type master;
+     file "/etc/bind/zones/master/db.xn----7sbfhfd2bya4al4i5a.xn--90ais";
+};
+zone "xn--80adfec7av0ak4h3a.xn--90ais" in {
+     type master;
+     file "/etc/bind/zones/master/db.xn--80adfec7av0ak4h3a.xn--90ais";
+};
+zone "ovik.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.ovik.by";
+};
+zone "pharm.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.pharm.by";
+};
+zone "xn--80aacqze0ce.xn--90ais" in {
+     type master;
+     file "/etc/bind/zones/master/db.xn--80aacqze0ce.xn--90ais";
+};
+zone "sitek.com.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.sitek.com.by";
+};
+zone "xn----7sbe3ahgqb7adp.xn--90ais" in {
+     type master;
+     file "/etc/bind/zones/master/db.xn----7sbe3ahgqb7adp.xn--90ais";
+};
+zone "toyotaclub.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.toyotaclub.by";
+};
+zone "xn--90abulfjor8ec.xn--90ais" in {
+     type master;
+     file "/etc/bind/zones/master/db.xn--90abulfjor8ec.xn--90ais";
+};
+zone "qosmobile.by" in {
+     type master;
+     file "/etc/bind/zones/master/db.qosmobile.by";
+};
+zone "xn--80ad2a0b1c.xn--90ais" in {
+     type master;
+     file "/etc/bind/zones/master/db.xn--80ad2a0b1c.xn--90ais";
+};
